@@ -1,0 +1,8 @@
+Flask
+flask-mysqldb
+mysqlclient
+opencv-python
+deepface
+numpy
+flask-mail
+werkzeug
