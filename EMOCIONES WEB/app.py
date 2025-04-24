@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify, render_template, redirect, url_for, session
-from flask_mysqldb import MySQL
 import cv2
+from flask_mysql import MySQL  
+import pymysql
 import numpy as np
 import os
 from deepface import DeepFace
