@@ -1,8 +1,8 @@
 Flask
-flask-mysqldb
-mysqlclient
-opencv-python
+gunicorn
+Flask-MySQLdb
+Flask-Mail
 deepface
+opencv-python
 numpy
-flask-mail
 werkzeug
