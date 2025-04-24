@@ -1,6 +1,7 @@
 ﻿Flask
 gunicorn
-Flask-MySQLdb
+Flask-MySQL
+PyMySQL
 Flask-Mail
 deepface
 opencv-python
