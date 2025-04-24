@@ -1,1 +1,1 @@
-web: python "EMOCIONES WEB/app.py"
+web: gunicorn 'EMOCIONES WEB.app:app'
