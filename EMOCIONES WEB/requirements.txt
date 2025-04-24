@@ -1,8 +1,0 @@
-Flask
-gunicorn
-Flask-MySQLdb
-Flask-Mail
-deepface
-opencv-python
-numpy
-werkzeug
